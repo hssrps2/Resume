@@ -1,0 +1,61 @@
+{
+	"basics": {
+		"name": "Harshdeep Singh Sethi",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2020kucp1011@iiitkota.ac.in",
+		
+		"summary": "I am the student at IIIT Kota and currently pursuing my B.Tech in CSE Branch.",
+		"location": {
+			"address": "Jawaharganj,Sendhwa",
+			"postalCode": "451666",
+			"city": "Sendhwa",
+			"countryCode": "India",
+			"region": "Madhya Pradesh"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "hssrps2",
+				"url": "https://github.com/hssrps2"
+			},
+			{
+				"network": "linkedin",
+				"username": "Harshdeep Sethi",
+				"url": "https://www.linkedin.com/in/harshdeep-sethi-498405200"
+			}
+			
+		]
+	},
+	
+	"volunteer": [{
+		"organization": "Incognito",
+		"position": "Volunteer",
+		
+		"startDate": "2020-12-20 ",
+		
+		"summary": "Its a cultural club, and I joined it to nourish my singing skills."
+		
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-12-02 ",
+		
+		
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "php"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Chess", "Badminton"]
+	}]
+	
+}
